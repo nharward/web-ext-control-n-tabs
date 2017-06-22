@@ -1,0 +1,53 @@
+{
+    "name": "Control+<number> Tab switcher",
+    "description": "Maps Control+<number> as a hotkey to focus tab <number>, just like Alt+<number>",
+    "manifest_version": 2,
+    "version": "1.0",
+    "background": {
+        "scripts": [
+            "tab-hotkeys.js"
+        ]
+    },
+    "commands": {
+        "activate-tab-0": {
+            "suggested_key": { "default": "Ctrl+1" },
+            "description": "Activate tab 1"
+        },
+        "activate-tab-1": {
+            "suggested_key": { "default": "Ctrl+2" },
+            "description": "Activate tab 2"
+        },
+        "activate-tab-2": {
+            "suggested_key": { "default": "Ctrl+3" },
+            "description": "Activate tab 3"
+        },
+        "activate-tab-3": {
+            "suggested_key": { "default": "Ctrl+4" },
+            "description": "Activate tab 4"
+        },
+        "activate-tab-4": {
+            "suggested_key": { "default": "Ctrl+5" },
+            "description": "Activate tab 5"
+        },
+        "activate-tab-5": {
+            "suggested_key": { "default": "Ctrl+6" },
+            "description": "Activate tab 6"
+        },
+        "activate-tab-6": {
+            "suggested_key": { "default": "Ctrl+7" },
+            "description": "Activate tab 7"
+        },
+        "activate-tab-7": {
+            "suggested_key": { "default": "Ctrl+8" },
+            "description": "Activate tab 8"
+        },
+        "activate-tab-8": {
+            "suggested_key": { "default": "Ctrl+9" },
+            "description": "Activate tab 9"
+        },
+        "activate-tab-9": {
+            "suggested_key": { "default": "Ctrl+0" },
+            "description": "Activate tab 10"
+        }
+    }
+}
