@@ -6,6 +6,12 @@
     "version": "1.0.0",
     "author": "Nathaniel Harward",
     "homepage_url": "https://github.com/nharward/web-ext-control-n-tabs",
+    "applications": {
+        "gecko": {
+            "id": "{ec8030f7-c20a-464f-9b0e-13a3a9e97384}",
+            "strict_min_version": "52.0"
+        }
+    },
     "background": {
         "scripts": [
             "tab-hotkeys.js"
