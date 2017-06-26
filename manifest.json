@@ -8,8 +8,7 @@
     "homepage_url": "https://github.com/nharward/web-ext-control-n-tabs",
     "applications": {
         "gecko": {
-            "id": "{ec8030f7-c20a-464f-9b0e-13a3a9e97384}",
-            "strict_min_version": "52.0"
+            "id": "{ada9ade6-700d-4a7c-b317-63b4700d8cbd}"
         }
     },
     "background": {
