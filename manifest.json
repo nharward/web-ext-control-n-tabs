@@ -3,12 +3,13 @@
     "name": "Control+<number> Tab switcher",
     "short_name": "Control tabs",
     "description": "Maps Control+<number> as a hotkey to focus tab <number>, just like Alt+<number>",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Nathaniel Harward",
     "homepage_url": "https://github.com/nharward/web-ext-control-n-tabs",
     "applications": {
         "gecko": {
-            "id": "{ada9ade6-700d-4a7c-b317-63b4700d8cbd}"
+            "id": "{ada9ade6-700d-4a7c-b317-63b4700d8cbd}",
+            "strict_min_version": "48.0"
         }
     },
     "background": {
