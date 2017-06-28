@@ -1,6 +1,6 @@
 # web-ext-control-n-tabs
 
-Web Extension to active tabs by using Control+&lt;number>
+Web Extension to activate tabs by using Control+&lt;number>. The Firefox addon page is [here](https://addons.mozilla.org/en-US/firefox/addon/control-number-tab-switcher/).
 
 # Why
 
