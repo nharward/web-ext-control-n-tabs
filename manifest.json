@@ -3,7 +3,7 @@
     "name": "Control+<number> Tab switcher",
     "short_name": "Control tabs",
     "description": "Maps Control+<number> as a hotkey to focus tab <number>, just like Alt+<number>",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "Nathaniel Harward",
     "homepage_url": "https://github.com/nharward/web-ext-control-n-tabs",
     "applications": {
@@ -50,13 +50,9 @@
             "suggested_key": { "default": "Ctrl+8" },
             "description": "Activate tab 8"
         },
-        "activate-tab-8": {
+        "activate-last-tab": {
             "suggested_key": { "default": "Ctrl+9" },
-            "description": "Activate tab 9"
-        },
-        "activate-tab-9": {
-            "suggested_key": { "default": "Ctrl+0" },
-            "description": "Activate tab 10"
+            "description": "Activate last tab"
         }
     }
 }
